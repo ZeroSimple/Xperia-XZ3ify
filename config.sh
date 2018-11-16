@@ -56,6 +56,12 @@ print_modname() {
 
 # This is an example
 REPLACE="
+
+"
+
+# Construct your own list here, it will override the example above
+# !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
+REPLACE="
 /system/App/AppPrediction
 /system/priv-app/com.sonymobile.addoncamera.portraitselfie
 /system/priv-app/Dialer2
@@ -66,11 +72,10 @@ REPLACE="
 /system/priv-app/SideSenseApp
 /system/priv-app/SmartNetworkEngine
 /system/priv-app/SomcOneHand
-"
-
-# Construct your own list here, it will override the example above
-# !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
-REPLACE="
+/system/priv-app/assist_app-release
+/system/priv-app/assist_persistent-release
+/system/priv-app/WallpaperCropper
+/system/priv-app/XperiaXLoops
 "
 
 ##########################################################################################
