@@ -76,6 +76,15 @@ REPLACE="
 /system/priv-app/assist_persistent-release
 /system/priv-app/WallpaperCropper
 /system/priv-app/XperiaXLoops
+/system/App/clock-widgets-release
+/system/App/Theme-Sou-M-cid18-black-sw360dp-xxhdpi-release
+/system/App/Theme-Sou-M-cid19-silver-sw360dp-xxhdpi-release
+/system/App/Theme-Sou-M-cid20-blue-sw360dp-xxhdpi-release
+/system/App/Theme-Sou-M-cid21-pink-sw360dp-xxhdpi-release
+/system/App/theme-xperialoops2-release
+/system/App/WallpaperBackup
+/system/App/Wallpaper-liquid-generic-release
+/system/App/XperiaXLiveWallpaper-release
 "
 
 ##########################################################################################
