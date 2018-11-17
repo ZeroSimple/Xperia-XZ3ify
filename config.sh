@@ -85,6 +85,8 @@ REPLACE="
 /system/App/WallpaperBackup
 /system/App/Wallpaper-liquid-generic-release
 /system/App/XperiaXLiveWallpaper-release
+/system/priv-app/PowerOptimizer
+/system/priv-app/Appaccessmanagement
 "
 
 ##########################################################################################
