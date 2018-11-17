@@ -25,7 +25,7 @@ FOR SONY ONLY! FOR ANDROID 9 ONLY!
 ## Changelog
 v1.0.0 First version.
 
-## Credits
+## Thanks
 - @machao44 for wallpapers
 - @nipunnarang and his GoogleLensEnabler
 - @topjohnwu for Magisk
