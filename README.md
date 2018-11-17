@@ -15,6 +15,7 @@ FOR SONY ONLY! FOR ANDROID 9 ONLY!
 - Adds One-hand Mode
 - Adds Photo playback
 - Adds XZ3 alarms/media/ringtones/UI sounds
+- Adds XZ3 wallpapers/themes
 - Enable Google Photos free upload
 - Adds Sony Power Optimizer(For China only, but also works well on others)
 
