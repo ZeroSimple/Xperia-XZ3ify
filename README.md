@@ -25,11 +25,11 @@ FOR SONY ONLY! FOR ANDROID 9 ONLY!
 v1.0.0 First version.
 
 ## Credits
-@machao44 for wallpapers
-@nipunnarang and his GoogleLensEnabler
-@topjohnwu for Magisk
+- @machao44 for wallpapers
+- @nipunnarang and his GoogleLensEnabler
+- @topjohnwu for Magisk
 
 ## Feedback
-Email: hqf0327g@gmail.com
-Telegram: @ZeroSimple
-Channel: https://t.me/joinchat/GIuRiQ_HCZYSqMArIwhD4w
+- Email: hqf0327g@gmail.com
+- Telegram: @ZeroSimple
+- Channel: https://t.me/joinchat/GIuRiQ_HCZYSqMArIwhD4w
