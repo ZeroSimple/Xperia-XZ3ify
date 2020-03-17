@@ -19,8 +19,7 @@ FOR SONY ONLY! FOR ANDROID 9 ONLY!
 - Photo playback
 - XZ3 alarms/media/ringtones/UI sounds
 - XZ3 wallpapers/themes
-- Enable Google Photos free uploads(taken from the Pixel 2 XL factory image, thanks to @ nipunnarang)
-- Adds Sony Power Optimizer(For China only, but also works well on others)
+- Sony Power Optimizer
 
 ## Changelog
 v1.0.0 First version.
